@@ -6,7 +6,7 @@ TimerChannel::TimerChannel(void)
 {
 }
 
-//инициализация. Это, по идее, должно быть в конструкторе, но ЧОТО ОПА НИХУЯ
+//инициализация. Это, по идее, должно быть в конструкторе, но ЧОТО ОПА НИФИГА
 void TimerChannel::begin(unsigned char relayChannel, unsigned char channelNumber)
 {
 	//обнуление времени
